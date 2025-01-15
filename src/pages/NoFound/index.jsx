@@ -1,10 +1,11 @@
+import Layout from '../../Components/Layout'
 import React from 'react';
 
 function NotFound() {
   return (
-    <div className='bg-red-100'>
-      NotFound
-    </div>
+    <Layout>
+      Home
+    </Layout>
 
   );
 }

@@ -1,10 +1,11 @@
+import Layout from '../../Components/Layout'
 import React from 'react';
 
 function MyOrders() {
   return (
-    <div className='bg-red-100'>
-      My Orders
-    </div>
+    <Layout>
+      Home
+    </Layout>
 
   );
 }
